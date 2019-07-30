@@ -3,7 +3,7 @@ package test.trees;
 /**
  * @Author ：Yu
  * @Date ：Created in 16:44 2019/7/18
- * @Description：节点类
+ * @Description： 二叉树点类
  * @Modified By：
  */
 public class Node {
